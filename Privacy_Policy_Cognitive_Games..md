@@ -9,7 +9,7 @@ Cognitive Games rispetta la tua privacy. Questa informativa descrive come raccog
 
 ### Dati Forniti dall'Utente
 - **Nome**: per personalizzare l'esperienza
-- **Data di nascita**: per calcolare l'età e adattare i contenuti
+- **Età**: per calcolare l'età e adattare i contenuti
 - **Sesso** (opzionale): per statistiche anonime
 - **Email**: tramite login Google/Facebook
 
