@@ -62,7 +62,7 @@ Hai diritto a:
 Per esercitare questi diritti, contattaci a: [ndgames.qq@gmail.com]
 
 ## Dati dei Minori
-L'app è progettata per utenti dai 5 anni in su. Non raccogliamo intenzionalmente dati di bambini sotto i 13 anni senza consenso parentale.
+L'app è progettata per utenti dai 6 anni in su. Non raccogliamo intenzionalmente dati di bambini sotto i 13 anni senza consenso parentale.
 
 ## Modifiche
 Potremmo aggiornare questa policy. Ti notificheremo eventuali modifiche sostanziali.
